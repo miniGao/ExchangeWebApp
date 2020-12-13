@@ -1,0 +1,27 @@
+﻿@model MasterViewModel
+
+@{
+    ViewData["Title"] = "Add Currency Rate Page";
+}
+@if (TempData["warning"] != null)
+{
+    <div class="alert alert-danger">@TempData["warning"]</div>
+}
+
+<h2>Add Currency Rate <a asp-action="Index" class="btn btn-sm btn-secondary">Back to Home</a></h2>
+<form asp-action="AddCurrencyRate" method="post">
+    <input type="hidden" asp-for="CountryId" />
+    <div class="form-group">
+        <label>Date:</label>
+        <input type="date" asp-for="CurrencyRate.CurrencyDate" />
+    </div>
+
+    <div class="form-group">
+        <label>Currency Rate:</label>
+        <input class="form-control" type="number" step="0.00001" asp-for="CurrencyRate.Rate" />
+    </div>
+
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Add</button>
+    </div>
+</form>

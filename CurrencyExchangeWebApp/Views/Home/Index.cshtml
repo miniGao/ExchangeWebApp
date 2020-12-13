@@ -1,0 +1,138 @@
+﻿@model MasterViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if (TempData["warning"] != null)
+{
+    <div class="alert alert-danger">@TempData["warning"]</div>
+}
+@if (TempData["info"] != null)
+{
+    <div class="alert alert-success">@TempData["info"]</div>
+}
+
+<h1 class="sign-in">G-ang Currency Converter</h1>
+<div class="login-wrap">
+    <div class="login-html">
+        <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">Money Converter</label>
+        <input id="tab-2" type="radio" name="tab" class="for-pwd"><label for="tab-2" class="tab">Admin</label>
+        <div class="login-form">
+            <div class="sign-in-htm">
+                <form asp-action="Convert" method="post">
+                    <div>
+                        <div class="group">
+                            <label for="user" class="label">Enter Amount</label>
+                            <input asp-for="Amount" id="userInput" type="text" class="input">
+                        </div>
+
+                        <div style="padding: 5%">
+                            <div style="padding-bottom: 5%">
+                                <select asp-for="FromCountryId" class="browser-default custom-select dropdown-primary ">
+                                    <option selected>From</option>
+                                    @foreach (var c in Model.CountryList)
+                                    {
+                                        <option value="@c.CountryId">@c.CountryName - @c.CurrencyCode</option>
+                                    }
+                                </select>
+                            </div>
+                            <select asp-for="ToCountryId" class="browser-default custom-select dropdown-primary">
+                                <option selected>To</option>
+                                @foreach (var c in Model.CountryList)
+                                {
+                                    <option value="@c.CountryId">@c.CountryName - @c.CurrencyCode</option>
+                                }
+                            </select> <br />
+                        </div>
+                        <div class="group">
+                            <input type="submit" class="button" value="Convert">
+                        </div>
+                    </div>
+                </form>
+                <hr />
+                <form asp-action="FilterByDate" method="post">
+                    <div>
+                        <label asp-for="CountryId">Select a currency</label>
+                        <select asp-for="CountryId" class="browser-default custom-select dropdown-primary ">
+                            @foreach (var c in Model.CountryList)
+                            {
+                                <option value="@c.CountryId">@c.CountryName - @c.CurrencyCode</option>
+                            }
+                        </select>
+                    </div>
+                    <div>
+                        <label asp-for="SpecifiedDate">Please select a date</label>
+                        <input type="date" asp-for="SpecifiedDate" />
+                    </div>
+                    <div class="group">
+                        <input type="submit" class="button" value="Find rate on this date">
+                    </div>
+                </form>
+                <hr />
+                <form asp-action="FitlerBetweenDate" method="post">
+                    <div>
+                        <label asp-for="CountryId">Select a currency</label>
+                        <select asp-for="CountryId" class="browser-default custom-select dropdown-primary ">
+                            @foreach (var c in Model.CountryList)
+                            {
+                                <option value="@c.CountryId">@c.CountryName - @c.CurrencyCode</option>
+                            }
+                        </select>
+                    </div>
+                    <div>
+                        <label asp-for="StartDate">Please select a start date</label>
+                        <input type="date" asp-for="StartDate" />
+                    </div>
+                    <div>
+                        <label asp-for="EndDate">Please select a end date</label>
+                        <input type="date" asp-for="EndDate" />
+                    </div>
+                    <div class="group">
+                        <input type="submit" class="button" value="Find rates between these date">
+                    </div>
+                </form>
+            </div>
+
+            <div class="for-pwd-htm" style="color:white">
+                <a class="btn btn-primary" asp-action="AddCountry"><p>Add a Country</p></a>
+                <table class="table table-sm table-striped table-bordered m-2">
+                    <thead>
+                        <tr>
+                            <th>Country Name</th>
+                            <th>Currency Code</th>
+                            <th>Country Management</th>
+                            <th>Rate Management</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var r in Model.CountryList)
+                        {
+                            <tr>
+                                <td>@r.CountryName</td>
+                                <td>@r.CurrencyCode</td>
+                                <td>
+                                    <a asp-action="UpdateCountry" asp-route-countryId="@r.CountryId">
+                                        <img src="/icon/edit.png" />
+                                        <p>Update</p>
+                                    </a>
+                                    <a asp-action="DeleteCountry" asp-route-countryId="@r.CountryId">
+                                        <img src="/icon/close.png" />
+                                        <p>Delete</p>
+                                    </a>
+                                </td>
+                                <td>
+                                    <a asp-action="CurrencyRateHistory" asp-route-countryId="@r.CountryId">
+                                        <p>Currency Rate</p>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+</div>
+

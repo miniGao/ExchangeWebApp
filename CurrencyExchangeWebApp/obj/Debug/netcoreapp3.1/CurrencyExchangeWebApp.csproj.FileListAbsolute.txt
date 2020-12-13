@@ -1,0 +1,132 @@
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.exe
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.deps.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.runtimeconfig.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.runtimeconfig.dev.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.dll
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.pdb
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.Views.dll
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.Views.pdb
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.csprojAssemblyReference.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.AssemblyInfoInputs.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.AssemblyInfo.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.csproj.CoreCompileInputs.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorAssemblyInfo.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorAssemblyInfo.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CurrencyExchangeWebApp.StaticWebAssets.Manifest.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CurrencyExchangeWebApp.StaticWebAssets.xml
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\CurrencyExchangeWebApp.styles.css
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.TagHelpers.input.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.TagHelpers.output.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorCoreGenerate.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorTargetAssemblyInfo.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorTargetAssemblyInfo.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.Views.pdb
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.dll
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.pdb
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.genruntimeconfig.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.csproj.CopyComplete
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddCurrencyRate.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConversionResult.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\CurrencyRateHistory.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\UpdateCurrencyRate.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddCountry.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\UpdateCountry.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.exe
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.deps.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.runtimeconfig.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.runtimeconfig.dev.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.dll
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.pdb
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.Views.dll
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.Views.pdb
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.csprojAssemblyReference.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.AssemblyInfoInputs.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.AssemblyInfo.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.csproj.CoreCompileInputs.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorAssemblyInfo.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorAssemblyInfo.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CurrencyExchangeWebApp.StaticWebAssets.Manifest.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CurrencyExchangeWebApp.StaticWebAssets.xml
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\CurrencyExchangeWebApp.styles.css
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.TagHelpers.input.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.TagHelpers.output.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorCoreGenerate.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddCountry.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddCurrencyRate.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConversionResult.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\CurrencyRateHistory.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\UpdateCountry.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\UpdateCurrencyRate.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorTargetAssemblyInfo.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorTargetAssemblyInfo.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.Views.pdb
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.csproj.CopyComplete
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.dll
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.pdb
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\Test\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.genruntimeconfig.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.exe
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.deps.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.runtimeconfig.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.runtimeconfig.dev.json
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.dll
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.pdb
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.Views.dll
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\CurrencyExchangeWebApp.Views.pdb
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.csprojAssemblyReference.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.AssemblyInfoInputs.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.AssemblyInfo.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.csproj.CoreCompileInputs.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorAssemblyInfo.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorAssemblyInfo.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CurrencyExchangeWebApp.StaticWebAssets.Manifest.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CurrencyExchangeWebApp.StaticWebAssets.xml
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\CurrencyExchangeWebApp.styles.css
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.TagHelpers.input.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.TagHelpers.output.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorCoreGenerate.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddCountry.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddCurrencyRate.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConversionResult.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\CurrencyRateHistory.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\UpdateCountry.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\UpdateCurrencyRate.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorTargetAssemblyInfo.cache
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.RazorTargetAssemblyInfo.cs
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.Views.pdb
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.csproj.CopyComplete
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.dll
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.pdb
+E:\2020 Fall Semester\Workspace Fall 2020\TestingLab\NETCore\API Project Final\CurrencyExchangeWebApp\CurrencyExchangeWebApp\obj\Debug\netcoreapp3.1\CurrencyExchangeWebApp.genruntimeconfig.cache

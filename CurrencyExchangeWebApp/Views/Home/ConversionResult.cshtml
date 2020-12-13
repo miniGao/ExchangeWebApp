@@ -1,0 +1,58 @@
+﻿@model MasterViewModel
+
+@{
+    ViewData["Title"] = "Conversion Result Page";
+}
+
+<a asp-action="Index" class="btn btn-sm btn-secondary">Back to Home</a>
+<h1>Conversion Result: From @Model.FromCountry.CurrencyCode to @Model.ToCountry.CurrencyCode </h1>
+<h1 style="color:black; text-align: center"> @Model.Amount @Model.FromCountry.CurrencyCode = @Model.ConversionResult @Model.ToCountry.CurrencyCode</h1>
+
+<div class="container align-content-center">
+    <div class="row">
+        <div class="col">
+            <h1 style="color:black;">@Model.FromCountry.CountryName - @Model.FromCountry.CurrencyCode to USD</h1>
+            <table class="table table-sm table-striped table-bordered m-2">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Rate</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var r in Model.FromCurrencyRateList)
+                    {
+                        <tr>
+                            <td>@r.CurrencyDate</td>
+                            <td>@r.Rate</td>
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+        </div>
+        <div class="col">
+            <h1 style="color:black;">@Model.ToCountry.CountryName - @Model.ToCountry.CurrencyCode to USD</h1>
+            <table class="table table-sm table-striped table-bordered m-2">
+
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Rate</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var r in Model.ToCurrencyRateList)
+                    {
+                        <tr>
+                            <td>@r.CurrencyDate</td>
+                            <td>@r.Rate</td>
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

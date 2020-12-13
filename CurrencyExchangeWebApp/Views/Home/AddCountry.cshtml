@@ -1,0 +1,26 @@
+﻿@model Country
+
+@{
+    ViewData["Title"] = "Add Country Page";
+}
+@if (TempData["warning"] != null)
+{
+    <div class="alert alert-danger">@TempData["warning"]</div>
+}
+
+<h2>Add Country <a asp-action="Index" class="btn btn-sm btn-secondary">Back to Home</a></h2>
+<form asp-action="AddCountry" method="post">
+    <div class="form-group">
+        <label asp-for="CountryName">Country Name:</label>
+        <input class="form-control" type="text" asp-for="CountryName" />
+    </div>
+
+    <div class="form-group">
+        <label>Currency Code:</label>
+        <input class="form-control" type="text" asp-for="CurrencyCode" />
+    </div>
+
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Add</button>
+    </div>
+</form>

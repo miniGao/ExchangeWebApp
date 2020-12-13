@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3WdsSptCgPcNAwYazD7MSfruY2XTenb4iL4J2ATqeyAL63FUNiQ1CKSRoSjmgzdaZzPf4kZuTpLtTo6ExzvnQ==",
+  "success": true,
+  "projectFilePath": "E:\\2020 Fall Semester\\Workspace Fall 2020\\TestingLab\\NETCore\\API Project Final\\CurrencyExchangeWebApp\\CurrencyExchangeWebApp\\CurrencyExchangeWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gary\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
